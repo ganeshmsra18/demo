@@ -1,4 +1,4 @@
 # demo
 This is my first GitHub repository.
 <br>
-Author - Ganesh Mishra 
+Author - Ganesh (Ved) Mishra 
